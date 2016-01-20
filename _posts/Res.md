@@ -1,3 +1,6 @@
+---
+title: Res
+---
 ## Res
 
 LOS App Files Manager
